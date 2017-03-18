@@ -11,6 +11,8 @@ Okay, first things first. There are a few books that you should read:
 - (Elixir) The Little Elixir & OTP Guidebook : https://www.manning.com/books/the-little-elixir-and-otp-guidebook
 - (Elixir) Elixir in Action by Sasa Juric : https://www.manning.com/books/elixir-in-action
 - (Elixir) Elixir and OTP in Action : https://www.manning.com/books/erlang-and-otp-in-action
+- (YouTube) Elixir for Beginners Video Series: https://www.youtube.com/watch?v=9FC7CFhBWNE
+- (FP) HackerRank Functional Programming: https://www.hackerrank.com/domains/fp/intro
 
 ## General Websites:
 
@@ -27,14 +29,24 @@ Okay, first things first. There are a few books that you should read:
 
 ## Phoenix:
 
-[AZ: please add relevant links]
+- (Main site) http://www.phoenixframework.org/
+- (Phoenix) Chris McCord: Programming Phoenix: Productive |> Reliable |> Fast: https://pragprog.com/book/phoenix/programming-phoenix
+- (YouTube) Blog Tutorial Video Series: https://www.youtube.com/watch?v=NQon2CYD4OQ
+- (YouTube) Elixir Phoenix 101 Series: https://www.youtube.com/watch?v=Sb82y5WeVqA&list=PLdH1VxYpbkGf-S6J53sQOMhqqsq6MN636
+- (YouTube) Tutorial Series using Ueberauth and Guardian: https://www.youtube.com/watch?v=X6Z-sDSJ3sE
 
 ## Ecto:
 
-[AZ - any resources worth sharing]
+- (YouTube) An Intro to Ecto: Using Ecto in a Non-Phoenix Context: https://www.youtube.com/watch?v=8j3DLfNI6Jw
 
 ## Public Git Repos:
 
 [AZ - add any relevant public repos that you think might be useful]
 Erlang:
-(Erlang) http://erlang.org/doc/
+- (Erlang) http://erlang.org/doc/
+
+Phoenix
+- (GitHub) https://github.com/phoenixframework/phoenix
+
+Ecto
+- (Ecto) https://github.com/elixir-ecto/ecto
