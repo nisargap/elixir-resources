@@ -7,6 +7,11 @@ Okay, first things first. There are a few books that you should read:
 
 [AZ: add links to the books - Ideally all three ]
 
+- (Elixir) Programming Elixir Function |> Concurrent |> Pragmatic |> Fun by Dave Thomas : https://www.amazon.com/Programming-Elixir-Functional-Concurrent-Pragmatic/dp/1937785580
+- (Elixir) The Little Elixir & OTP Guidebook : https://www.manning.com/books/the-little-elixir-and-otp-guidebook
+- (Elixir) Elixir in Action by Sasa Juric : https://www.manning.com/books/elixir-in-action
+- (Elixir) Elixir and OTP in Action : https://www.manning.com/books/erlang-and-otp-in-action
+
 ## General Websites:
 
 - (Elixir) http://elixir-lang.org
