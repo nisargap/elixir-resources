@@ -41,7 +41,6 @@ Okay, first things first. There are a few books that you should read:
 
 ## Public Git Repos:
 
-[AZ - add any relevant public repos that you think might be useful]
 Erlang:
 - (Erlang) http://erlang.org/doc/
 
