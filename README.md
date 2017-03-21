@@ -1,4 +1,4 @@
-# Beaqs Resources
+# Elixir Resources
 Resources for Erlang and Elixir
 
 Okay, first things first. There are a few books that you should read:
